@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import { mapState, mapMutations } from 'vuex'
+import { mapState, mapMutations } from 'vuex';
 
 export default {
   computed: {
@@ -25,7 +25,7 @@ export default {
       'decrement'
     ])
   }
-}
+};
 </script>
 
 <style>
