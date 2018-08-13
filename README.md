@@ -1,6 +1,6 @@
-# wechat-scp-foundation
+# Wechat SCP Foundation Document System
 
-> SCP Foundation Document System
+> SCP基金会项目文档微信小程序
 
 ## Build Setup
 
